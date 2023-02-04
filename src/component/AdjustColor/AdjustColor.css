@@ -1,0 +1,36 @@
+.AdjustColorConttainer{
+    max-width: 700px;
+    display: block;
+    margin: auto;
+    border: 1px solid lightgray;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+.AdjustColorConttainer .title{
+    font-size: 1.75rem;
+    margin-bottom: 2.5rem;
+}
+button{
+    padding: 1rem 4rem;
+    width: 400px;
+    background-color: rgb(0 68 255 / 90%);;
+    color: white;
+    border-radius: 0.5rem;
+    display: block;
+    margin-top: 10px;
+    border: none;
+}
+p{
+    font-weight: bold;
+    color: black;
+    text-align: left;
+}
+.divColor{
+    width: 100px;
+    height: 100px;
+    border-radius: 0.5rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 1.5rem;
+
+}

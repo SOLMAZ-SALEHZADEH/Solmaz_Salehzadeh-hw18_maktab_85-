@@ -1,0 +1,46 @@
+.FormContainer{
+    max-width: 700px;
+    display: block;
+    margin: auto;
+    border: 1px solid lightgray;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 2rem;
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+    margin-bottom: 20px;
+}
+.FormContainer form{
+    padding: 2rem;
+    margin: 3rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.FormContainer form p{
+    text-align: center;
+}
+.FormContainer form p a{
+    color: lightskyblue;
+    margin-left: 0.5rem;
+}
+.FormContainer form .fullName{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+.FormContainer form button{
+    width:100%
+}
+.FormContainer form .agreementCheckbox{
+    text-align: left;
+}
+.FormContainer form .agreementCheckbox span{
+    color: lightskyblue;
+}
+
+.FormContainer .title{
+    font-size: 1.75rem;
+    margin-bottom: 2.5rem;
+}

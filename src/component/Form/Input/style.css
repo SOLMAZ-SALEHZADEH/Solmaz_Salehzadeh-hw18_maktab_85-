@@ -1,0 +1,15 @@
+input{
+    padding:1rem 0.5rem;
+    background-color: rgb(230 230 230 / 54%);
+    border-radius: 0.5rem;
+    border:none;
+    margin-top: 1rem;
+}
+
+.w-93{
+    width: 93%;
+}
+
+.w-97{
+    width: 97%;
+}
